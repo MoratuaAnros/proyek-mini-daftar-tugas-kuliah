@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Daftar Tugas Kuliah merupakan aplikasi web sederhana yang dibuat menggunakan React JS untuk membantu pengguna mencatat dan mengelola tugas kuliah. Aplikasi ini memiliki tampilan yang sederhana dan menyediakan beberapa fungsi untuk memudahkan pengguna memantau tugas yang sudah selesai maupun yang belum selesai.
+Daftar Tugas Kuliah merupakan aplikasi web sederhana yang dibuat menggunakan React JS untuk membantu pengguna mencatat dan mengelola tugas kuliah. Aplikasi ini menyediakan fungsi untuk memantau tugas yang sudah selesai maupun yang belum selesai.
 
 Proyek ini dibuat sebagai bagian dari praktikum Pemrograman Berbasis Web untuk mempelajari penerapan React JS dalam pengembangan aplikasi web interaktif.
 
